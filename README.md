@@ -1,5 +1,5 @@
-[![CI](https://github.com/nkakouros-original/ansible-role-easyrsa/actions/workflows/main.yml/badge.svg)](https://github.com/nkakouros-original/ansible-role-easyrsa/actions/workflows/main.yml)
-[![Galaxy](https://img.shields.io/badge/galaxy-nkakouros.easyrsa-blue.svg)](https://galaxy.ansible.com/nkakouros/easyrsa/)
+[![CI](https://github.com/burlesquer-original/ansible-role-easyrsa/actions/workflows/main.yml/badge.svg)](https://github.com/burlesquer-original/ansible-role-easyrsa/actions/workflows/main.yml)
+[![Galaxy](https://img.shields.io/badge/galaxy-burlesquer.easyrsa-blue.svg)](https://galaxy.ansible.com/burlesquer/easyrsa/)
 
 Ansible Role: EasyRSA
 =========

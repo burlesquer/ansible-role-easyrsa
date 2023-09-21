@@ -2,7 +2,7 @@
 
 galaxy_info:
   role_name: easyrsa
-  namespace: nkakouros
+  namespace: burlesquer
   author: Nikolaos Kakouros
   description: Installs easyrsa and generates keys and certificates
 
